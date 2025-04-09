@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on galadriel a Test Managing Tool<br>👯 I’m looking to collaborate on python web scrapping projects for the community<br>🤝 I’m looking for help with python web development<br>🌱 I’m currently learning rust, python reflex (former pynecone) and studying a degree-level course of cybersecurity<br>💬 Ask me about how to manage a company<br>⚡ Fun fact I do not make my money as a developer but as a C level (not CTO)
+🔭 I’m currently working on galadriel a Test Managing Tool<br>👯 I’m looking to collaborate on python web scrapping projects for the community<br>🤝 I’m looking for help with python web development<br>🌱 I’m currently learning rust, python reflex (former pynecone) and studying a degree-level course of cybersecurity<br>💬 Ask me about how to manage a company<br>⚡ Fun fact I do not make my money as a developer but as a C level
 
 
 # 💻 Tech Stack:
